@@ -1,0 +1,4 @@
+Deb Harding dhard@msudenver.edu
+Stack Exception stack@msudenver.edu 95.5 88.4 80.3 87.4 92.3
+Binary Beast @msudenver.edu 88.9 77 105 105 99.87
+Heap Memory @msudenver.edu 76 67 88 72 66

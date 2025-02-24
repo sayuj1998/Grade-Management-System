@@ -1,0 +1,10 @@
+CS1050 Final Grades
+Instructor Name:Deb Harding dhard@msudenver.edu
+
+Stack Exception: 88.11  B
+Binary Beast: 95.78  A
+Heap Memory: 73.58  C
+
+Class average: 85.82
+Class min: 73.58
+Class max: 95.78
