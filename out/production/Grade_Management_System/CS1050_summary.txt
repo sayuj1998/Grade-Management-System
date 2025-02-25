@@ -1,5 +1,5 @@
 CS1050 Final Grades
-Instructor Name:Deb Harding dhard@msudenver.edu
+Instructor Name:John Smith jdoe@university.edu
 
 Stack Exception: 88.11  B
 Binary Beast: 95.78  A

@@ -25,6 +25,11 @@ javac GradeManagementSystem.java
 java GradeManagementSystem
 ```
 
+## Example Output
+```
+
+```
+
 ## Future add-ons
 - GUI for better interaction
 - Database integration for storage
