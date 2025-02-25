@@ -1,4 +1,4 @@
-Monica Ball mball@msudenver.edu
+Jane Doe jdoe@university.edu
 Stack Exception stack@msudenver.edu 95.5 88.4 80.3 87.4 
 Binary Beast @msudenver.edu 88.9 77 88 105 
 Heap Memory @msudenver.edu 68 55 63 72 
